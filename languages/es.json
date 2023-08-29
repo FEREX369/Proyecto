@@ -1,0 +1,17 @@
+{
+    "profile": {
+        "rol": "Desarrollador Front-end",
+        "description": "Con más de 1 año de experiencia como desarrollador web, he sumergido mis habilidades en el apasionante mundo de la creación digital utilizando HTML, CSS y JavaScript. A lo largo de mi recorrido, he logrado fusionar la estética visual con la funcionalidad interactiva, construyendo experiencias en línea cautivadoras y memorables."
+    },
+    "experience": {
+        "first-job-title": "Desarrollador Back-end",
+        "first-job-dates": "Enero 1995 - Enero 2000",
+        "first-job-description": "Lorem ipsum dolor sit amet",
+        "second-job-title": "Desarrollador Front-end",
+        "second-job-dates": "Feb 2000 - Mar 2005",
+        "second-job-description": "Lorem ipsum dolor sit amet",
+        "last-job-title": "Desarrollador Back-end",
+        "last-job-dates": "Febrero 2017 - Actualmente",
+        "last-job-description": "Loren ipsum"
+    }
+}
