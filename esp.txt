@@ -1,1 +1,9 @@
 esp
+esp
+git ini
+git add .
+git commit -m "0.1"
+
+git branch -M main
+git remote add origen https://XXXXXXprotecto.git 
+git push -u origin main 
