@@ -183,6 +183,7 @@ body.dark {
 .card__text{
     font-size: 0.9rem;
     line-height: 1.5rem;
+    text-align: left;
 }
 
 @media  screen and (min-width: 760px) { 
@@ -276,11 +277,12 @@ body.dark {
 .experience{
     display: flex;
     align-items: start;
-    margin-bottom: 1em;
+    margin-bottom: auto;
     padding: 1em;
     border: 2px solid var(--primary-color);
     border-radius: var(--border-radius);
     transition: var(--transition);
+    
 
 }
 
